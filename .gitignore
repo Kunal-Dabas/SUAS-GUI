@@ -1,0 +1,15 @@
+frontend/node_modules/
+backend/node_modules/
+
+pythonscript/.venv
+pythonscript/interop
+pythonscript/__pycache__
+pythonscript/aStar
+pythonscript/aStarV2/__pycache__
+pythonscript/auvsi_suas/__pycache__
+pythonscript/auvsi_suas/client/__pycache__
+pythonscript/gridPointGenerator/__pycache__
+pythonscript/tools
+
+mav.tlog
+mav.tlog.raw
